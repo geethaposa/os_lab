@@ -29,6 +29,7 @@ simulate_cp(argv[1], argv[2]);
 return EXIT_SUCCESS;
 }
 ```
+![screenshot](1boutput.png)
 > ## To implement UNIX operating system calls fork, exec, getpid, exit, wait, close, stat, opendir and readdir
 ``` c
 #include <stdio.h>
