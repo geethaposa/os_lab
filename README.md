@@ -1,5 +1,5 @@
 # os_lab
-> ##Simulate UNIX commands like cp, ls, grep, etc
+> ## Simulate UNIX commands like cp, ls, grep, etc
 ``` c
 #include <stdio.h>
 #include <stdlib.h>
