@@ -54,7 +54,8 @@ const char *path = argc > 1 ? argv[1] : ".";
 simulate_ls(path);
 return 0;
 }
-``` 
+```
+![screenshot](1blsnewop.png)
 > ## To implement UNIX operating system calls fork, exec, getpid, exit, wait, close, stat, opendir and readdir
 ``` c
 #include <stdio.h>
