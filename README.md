@@ -302,3 +302,6 @@ int main() {
 }
 ```
 ![screenshot](3a1.png)
+![screenshot](3a2.png)
+![screenshot](3a3.png)
+![screenshot](3a4.png)
